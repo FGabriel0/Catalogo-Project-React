@@ -50,6 +50,25 @@ Aplicação para explorar cidades pelo mundo, com mapa interativo e gerenciament
 
 ---
 
+## 🌍 AppleStore
+
+Interface web inspirada no design do site da Apple, desenvolvida com React, Vite e Tailwind CSS.
+O objetivo do projeto é criar uma experiência visual limpa, responsiva e minimalista, com foco na organização de produtos Apple e aplicação de boas práticas de front-end moderno..
+
+🔧 Tecnologias: React ,Vite,Tailwind CSS,JavaScript/JSX,HTML5 & CSS3  
+📎 Repositório: [AppleStore](https://github.com/FGabriel0/Apple-Products)
+
+---
+
+## 📰 News & Blog App
+
+Aplicação web moderna de Notícias e Blog, desenvolvida com React, que consome a API GNews para exibir notícias atualizadas em Português do Brasil. O projeto conta com busca por palavras-chave, filtro por categorias e leitura detalhada das notícias
+
+🔧 Tecnologias: React,AxiosGNews, API,CSS3,LocalStorage 
+📎 Repositório: [News & Blog App](https://github.com/FGabriel0/news-blog)
+
+---
+
 ## 📫 Contato
 
 - LinkedIn: (https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/) 
